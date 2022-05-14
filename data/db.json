@@ -1,0 +1,18 @@
+{
+    "blogs": [
+      {
+        "product": "item 1",
+        "description": "product description...",
+        "customer": "mario",
+        "price": 12.99,
+        "id": 1
+      },
+      {
+        "product": "item 4",
+        "description": "product description...",
+        "customer": "yoshi",
+        "price": 13.99,
+        "id": 2
+      }
+    ]
+  }
